@@ -1,4 +1,4 @@
-# tcn_statarb
+# Temporal Convolutional Network Statistical Arbitrage
 This private repo contains code to create TCN-based models to predict the correct portfolio allocation to create a stationary portfolio.
 
 ## utils
